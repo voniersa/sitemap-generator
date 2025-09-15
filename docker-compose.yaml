@@ -1,0 +1,10 @@
+services:
+ smc-php-cli:
+   build:
+     dockerfile: docker/php/Dockerfile
+     context: .
+   container_name: smc-php-cli
+   environment:
+     - XDEBUG_MODE=coverage
+   volumes:
+     - .:/var/www/code:rw

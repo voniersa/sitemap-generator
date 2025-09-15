@@ -1,0 +1,7 @@
+.idea/
+reports/
+vendor/
+coverage/
+.phpunit.cache/
+.phpunit.result.cache/
+sitemap.xml
