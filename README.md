@@ -1,5 +1,5 @@
 # sitemap-generator
-[![Unit tests](https://github.com/voniersa/sitemap-generator/actions/workflows/unit-tests.yml/badge.svg?event=push)](https://github.com/voniersa/sitemap-generator/actions/workflows/unit-tests.yaml)
+[![Unit tests](https://github.com/voniersa/sitemap-generator/actions/workflows/unit-tests.yaml/badge.svg?event=push)](https://github.com/voniersa/sitemap-generator/actions/workflows/unit-tests.yaml)
 
 A small PHP script that searches your website for links and generates a sitemap.xml file out of them.
 
